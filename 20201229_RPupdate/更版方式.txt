@@ -1,0 +1,4 @@
+1. 取出RP Server上原有CGRP.war內application-local.yml以及NET.wsdl
+2. 停RP服務
+3. 將application-local.yml以及NET.wsdl更新至新版CGRP.war內佈版
+4. 起RP服務
